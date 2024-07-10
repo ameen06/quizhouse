@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'QuizHouse',
+  appId: 'in.humblar.quizhouse',
+  appName: 'Ai Quiz House',
   webDir: 'dist'
 };
 

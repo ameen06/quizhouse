@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ai Quiz House</string>
+    <string name="title_activity_main">Ai Quiz House</string>
+    <string name="package_name">in.humblar.quizhouse</string>
+    <string name="custom_url_scheme">in.humblar.quizhouse</string>
+</resources>
